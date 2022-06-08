@@ -8,7 +8,19 @@ export default function Projects(){
             id: "1",
             nameWork: "9780Bitcoin.com",
             linkWork: "https://www.9780bitcoin.com/es-PE/",
-            imgWork: ""
+            imgWork: "../../images/9780bitcoin.png"
+        },
+        {
+            id:"2",
+            nameWork: "Card Presentation",
+            linkWork:"https://aanglesp.netlify.app/",
+            imgWork:""
+        },
+        {
+            id:"3",
+            nameWork: "Rick and Morty project",
+            linkWork:"https://rick-and-morty-vueangles.netlify.app/",
+            imgWork:""
         }
     ]
 
